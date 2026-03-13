@@ -1,0 +1,23 @@
+# IDE and editor files
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build output
+dist/
+build/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment files
+.env
+.env.*
